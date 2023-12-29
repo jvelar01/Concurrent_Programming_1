@@ -1,6 +1,5 @@
 # Practica1
 la practica 1
-esta es la practica 1
 
 Hay dos archivos, uno es el modelo productor-consumidor con un buffer de capacidad uno en cada productor, y el segundo (la práctica opcional) es lo mismo pero cada productor tiene un buffer de tamaño K. 
 
